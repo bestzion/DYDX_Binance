@@ -1,0 +1,372 @@
+{
+  "SUSHI-USD": {
+    "highest": 0.1532,
+    "lowest": -0.1317,
+    "abovePointOne": 259,
+    "belowMinusPointOne": 4,
+    "average": 0.04182341666666678,
+    "q1": 0.0094,
+    "q2": 0.0416,
+    "q3": 0.0751
+  },
+  "LTC-USD": {
+    "highest": 0.1627,
+    "lowest": -0.0754,
+    "abovePointOne": 431,
+    "belowMinusPointOne": 0,
+    "average": 0.04979824999999982,
+    "q1": 0.0148,
+    "q2": 0.0452,
+    "q3": 0.0883
+  },
+  "ALGO-USD": {
+    "highest": 0.0632,
+    "lowest": -0.1277,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 5,
+    "average": -0.01584416666666667,
+    "q1": -0.061225,
+    "q2": 0,
+    "q3": 0
+  },
+  "MKR-USD": {
+    "highest": 0.0611,
+    "lowest": -0.1527,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 54,
+    "average": -0.040441375,
+    "q1": -0.0611,
+    "q2": -0.0401,
+    "q3": -0.02
+  },
+  "CELO-USD": {
+    "highest": 0.1538,
+    "lowest": -0.1548,
+    "abovePointOne": 4,
+    "belowMinusPointOne": 356,
+    "average": -0.022078250000000025,
+    "q1": 0,
+    "q2": 0,
+    "q3": 0
+  },
+  "ICP-USD": {
+    "highest": 0.1309,
+    "lowest": -0.1321,
+    "abovePointOne": 15,
+    "belowMinusPointOne": 14,
+    "average": 0.004314458333333339,
+    "q1": -0.0238,
+    "q2": 0.0078,
+    "q3": 0.032
+  },
+  "BCH-USD": {
+    "highest": 0.0636,
+    "lowest": -0.0979,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 0,
+    "average": -0.004965374999999999,
+    "q1": -0.017,
+    "q2": 0,
+    "q3": 0.0126
+  },
+  "LINK-USD": {
+    "highest": 0.6318,
+    "lowest": -0.1684,
+    "abovePointOne": 414,
+    "belowMinusPointOne": 29,
+    "average": 0.027038333333333286,
+    "q1": -0.0168,
+    "q2": 0.0173,
+    "q3": 0.0663
+  },
+  "DOGE-USD": {
+    "highest": 0.1267,
+    "lowest": -0.1018,
+    "abovePointOne": 233,
+    "belowMinusPointOne": 1,
+    "average": 0.03615991666666674,
+    "q1": 0.0125,
+    "q2": 0.0378,
+    "q3": 0.0634
+  },
+  "MATIC-USD": {
+    "highest": 0.0376,
+    "lowest": -0.0768,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 0,
+    "average": -0.019234291666666625,
+    "q1": -0.0371,
+    "q2": -0.0245,
+    "q3": 0
+  },
+  "COMP-USD": {
+    "highest": 0.2269,
+    "lowest": -0.1131,
+    "abovePointOne": 906,
+    "belowMinusPointOne": 2,
+    "average": 0.0792136250000001,
+    "q1": 0.037,
+    "q2": 0.0752,
+    "q3": 0.13
+  },
+  "XTZ-USD": {
+    "highest": 0.0986,
+    "lowest": -0.2083,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 853,
+    "average": -0.05488737500000012,
+    "q1": -0.1011,
+    "q2": -0.0984,
+    "q3": 0
+  },
+  "YFI-USD": {
+    "highest": 0.028,
+    "lowest": -0.182,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 336,
+    "average": -0.07486104166666642,
+    "q1": -0.0973,
+    "q2": -0.0701,
+    "q3": -0.0559
+  },
+  "ADA-USD": {
+    "highest": 0.2401,
+    "lowest": -0.0409,
+    "abovePointOne": 1146,
+    "belowMinusPointOne": 0,
+    "average": 0.09950858333333315,
+    "q1": 0.058374999999999996,
+    "q2": 0.0985,
+    "q3": 0.142875
+  },
+  "SOL-USD": {
+    "highest": 0.0557,
+    "lowest": -0.1559,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 4,
+    "average": -0.03421358333333337,
+    "q1": -0.0498,
+    "q2": -0.0338,
+    "q3": -0.0185
+  },
+  "AAVE-USD": {
+    "highest": 0.1454,
+    "lowest": -0.0718,
+    "abovePointOne": 13,
+    "belowMinusPointOne": 0,
+    "average": 0.025577708333333355,
+    "q1": 0,
+    "q2": 0.0239,
+    "q3": 0.0476
+  },
+  "XLM-USD": {
+    "highest": 0.1276,
+    "lowest": -0.0642,
+    "abovePointOne": 45,
+    "belowMinusPointOne": 0,
+    "average": 0.026757624999999948,
+    "q1": 0,
+    "q2": 0.0273,
+    "q3": 0.0548
+  },
+  "AVAX-USD": {
+    "highest": 0.1381,
+    "lowest": -0.1112,
+    "abovePointOne": 1,
+    "belowMinusPointOne": 6,
+    "average": -0.02504812500000004,
+    "q1": -0.048,
+    "q2": -0.0246,
+    "q3": -0.0029
+  },
+  "XMR-USD": {
+    "highest": 0.1843,
+    "lowest": -0.1421,
+    "abovePointOne": 2,
+    "belowMinusPointOne": 18,
+    "average": -0.009684625000000007,
+    "q1": -0.03,
+    "q2": -0.006,
+    "q3": 0.012
+  },
+  "ATOM-USD": {
+    "highest": 0.0659,
+    "lowest": -0.0978,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 0,
+    "average": -0.0029154166666666786,
+    "q1": -0.0217,
+    "q2": 0,
+    "q3": 0.011
+  },
+  "EOS-USD": {
+    "highest": 0.1443,
+    "lowest": -0.1453,
+    "abovePointOne": 217,
+    "belowMinusPointOne": 110,
+    "average": 0.006256375000000007,
+    "q1": 0,
+    "q2": 0,
+    "q3": 0
+  },
+  "ENJ-USD": {
+    "highest": 0.4599,
+    "lowest": -0.1437,
+    "abovePointOne": 1485,
+    "belowMinusPointOne": 56,
+    "average": 0.13469437499999956,
+    "q1": 0.0352,
+    "q2": 0.1401,
+    "q3": 0.214
+  },
+  "SNX-USD": {
+    "highest": 0.0323,
+    "lowest": -0.1637,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 138,
+    "average": -0.048356958333333346,
+    "q1": -0.0655,
+    "q2": -0.0318,
+    "q3": -0.0313
+  },
+  "NEAR-USD": {
+    "highest": 0.0693,
+    "lowest": -0.1085,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 2,
+    "average": -0.010498916666666512,
+    "q1": -0.0351,
+    "q2": 0,
+    "q3": 0
+  },
+  "1INCH-USD": {
+    "highest": 0.3336,
+    "lowest": -0.0795,
+    "abovePointOne": 1612,
+    "belowMinusPointOne": 0,
+    "average": 0.13816516666666676,
+    "q1": 0.0776,
+    "q2": 0.1321,
+    "q3": 0.2014
+  },
+  "ZRX-USD": {
+    "highest": 0.4367,
+    "lowest": -0.0318,
+    "abovePointOne": 1754,
+    "belowMinusPointOne": 0,
+    "average": 0.1792027916666668,
+    "q1": 0.09432499999999999,
+    "q2": 0.1867,
+    "q3": 0.2506
+  },
+  "UNI-USD": {
+    "highest": 0.0827,
+    "lowest": -0.067,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 0,
+    "average": 0.008437291666666603,
+    "q1": -0.016,
+    "q2": 0,
+    "q3": 0.0325
+  },
+  "TRX-USD": {
+    "highest": 0.1026,
+    "lowest": -0.0707,
+    "abovePointOne": 1,
+    "belowMinusPointOne": 0,
+    "average": 0.01625604166666665,
+    "q1": -0.0085,
+    "q2": 0.0171,
+    "q3": 0.0426
+  },
+  "DOT-USD": {
+    "highest": 0.1329,
+    "lowest": -0.1205,
+    "abovePointOne": 82,
+    "belowMinusPointOne": 8,
+    "average": 0.008061791666666675,
+    "q1": -0.0295,
+    "q2": 0.0143,
+    "q3": 0.0441
+  },
+  "ETH-USD": {
+    "highest": 0.0507,
+    "lowest": -0.0991,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 0,
+    "average": -0.02493983333333334,
+    "q1": -0.04055,
+    "q2": -0.0205,
+    "q3": -0.0073750000000000005
+  },
+  "CRV-USD": {
+    "highest": 0.0673,
+    "lowest": -0.2941,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 1384,
+    "average": -0.11676670833333297,
+    "q1": -0.1577,
+    "q2": -0.1124,
+    "q3": -0.0673
+  },
+  "ZEC-USD": {
+    "highest": 0.5048,
+    "lowest": -0.1393,
+    "abovePointOne": 1545,
+    "belowMinusPointOne": 3,
+    "average": 0.1832730833333346,
+    "q1": 0.0906,
+    "q2": 0.183,
+    "q3": 0.2799
+  },
+  "UMA-USD": {
+    "highest": 0.2735,
+    "lowest": -0.2268,
+    "abovePointOne": 786,
+    "belowMinusPointOne": 92,
+    "average": 0.05930895833333359,
+    "q1": 0,
+    "q2": 0.0669,
+    "q3": 0.1151
+  },
+  "RUNE-USD": {
+    "highest": 0.2407,
+    "lowest": -0.0228,
+    "abovePointOne": 972,
+    "belowMinusPointOne": 0,
+    "average": 0.08995283333333308,
+    "q1": 0.0665,
+    "q2": 0.08835000000000001,
+    "q3": 0.11
+  },
+  "FIL-USD": {
+    "highest": 0.2607,
+    "lowest": -0.0613,
+    "abovePointOne": 1375,
+    "belowMinusPointOne": 0,
+    "average": 0.11320712500000049,
+    "q1": 0.0604,
+    "q2": 0.1192,
+    "q3": 0.1612
+  },
+  "BTC-USD": {
+    "highest": 0.0316,
+    "lowest": -0.1075,
+    "abovePointOne": 0,
+    "belowMinusPointOne": 4,
+    "average": -0.01670979166666667,
+    "q1": -0.025925,
+    "q2": -0.01,
+    "q3": 0.0037
+  },
+  "ETC-USD": {
+    "highest": 0.1151,
+    "lowest": -0.1202,
+    "abovePointOne": 1,
+    "belowMinusPointOne": 3,
+    "average": -0.011650667222685552,
+    "q1": -0.0323,
+    "q2": -0.0122,
+    "q3": 0.0084
+  }
+}

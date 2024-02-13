@@ -1,0 +1,85 @@
+/* style.css */
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px; /* Space below the header */
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+#tickerTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#tickerTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.ticker-delta-btn {
+    border: none;
+    background: none;
+    padding: 8px; /* Adjust padding to match your design */
+    margin: 0;
+    font: inherit;
+    cursor: pointer;
+    text-align: center;
+    width: 100%; /* Button takes up the full cell width */
+    display: block; /* Make the button a block to fill the cell */
+    color: #000; /* Inherit text color from the class */
+}
+
+.ticker-delta-btn .negative {
+    color: #ff0000; /* Negative delta color */
+}
+
+.ticker-delta-btn .positive {
+    color: #0000ff; /* Positive delta color */
+}
+
+.ticker-delta-btn > span {
+    float: right; /* Align the delta to the right */
+}
+
+/* Optional: Add a hover effect to the button */
+.ticker-delta-btn:hover {
+    background-color: #f2f2f2; /* A light grey background on hover */
+}
+
+#switchButton {
+    position: relative;
+    float: right;
+    padding: 10px 20px; /* Larger padding for a bigger button */
+    margin: 0;
+    margin-left: 70px; /* Space between the button and the title */
+    background-color: #1331f2; /* Initial background color */
+    border: 1px solid #ccc; /* Optional: adds a border */
+    border-radius: 5px; /* Optional: rounds the corners */
+    color: #cccccc;
+    font-size: 1em; /* Adjust font size as needed */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#switchButton:hover {
+    background-color: #bbb; /* Color changes when hovered over */
+    color: #333333;
+}
